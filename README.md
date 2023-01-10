@@ -1,2 +1,2 @@
-# nekkopupu.work
+# lazypupu.work
 Personal Page
