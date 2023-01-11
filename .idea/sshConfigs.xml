@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;&quot;,&quot;proxyPort&quot;:-1,&quot;proxyType&quot;:&quot;IDE_WIDE_PROXY&quot;}}" host="159.223.192.21" id="ee6f1441-5412-4da5-b93b-ff90d111e462" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;&quot;,&quot;proxyPort&quot;:-1,&quot;proxyType&quot;:&quot;IDE_WIDE_PROXY&quot;}}" host="lazypupu.work" id="aeb7a361-7b50-4d20-9847-351df6b5cdcd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="lazypupu" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="lazypupu" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
